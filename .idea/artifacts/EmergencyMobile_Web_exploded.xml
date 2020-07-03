@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EmergencyMobile:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmergencyMobile_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EmergencyMobile/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EmergencyMobile" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
