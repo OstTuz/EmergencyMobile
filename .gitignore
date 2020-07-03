@@ -1,6 +1,5 @@
 # Project exclude paths
 /out/
 /target/
-.idea/
-*.iml
-*.iws
+/.idea/
+EmergencyMobile.iml
